@@ -19,7 +19,7 @@
   --accent-bg-color: #2f303a;
   --exception-color: rgba(255, 255, 255, 0.6);
 
-  --transition-duration: 2500ms;
+  --transition-duration: 250ms;
   --transition-timing-function: cubic-bezier(0.165, 0.84, 0.44, 1);
 }
 
